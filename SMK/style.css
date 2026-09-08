@@ -1,0 +1,53 @@
+.SMKN {
+    background: magenta;
+}
+
+.RPL {
+    background: cyan;
+}
+
+.TKJ {
+    background: pink;
+}
+
+.DKV {
+    background: gray;
+}
+
+.TPM {
+    background: red;
+}
+
+.TSM {
+    background: yellow;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;      
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    padding: 16px;    
+    background: blue;
+}
+
+nav a {
+    padding: 10px 16px;
+    color: inherit;
+    text-decoration: none;
+}
+
+h1 {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 200px;
+    margin: 0;
+    text-align: center;
+}
+
